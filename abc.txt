@@ -2,5 +2,6 @@ i am fahad
 hello
 why  r u
 how are u
+bye
 why
 
